@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$20/month",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 personal training session/month"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "$40/month",
+    "features": [
+      "Access to gym equipment",
+      "Unlimited group classes",
+      "Weekly personal training session",
+      "Nutrition guidance"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$70/month",
+    "features": [
+      "24/7 gym access",
+      "Unlimited group & yoga classes",
+      "Personal trainer (3 sessions/week)",
+      "Customized diet plan",
+      "Sauna & spa access"
+    ]
+  }
+]
